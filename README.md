@@ -1,2 +1,2 @@
-# TALEO
+# TALEO Project
 Projet de Taleo
