@@ -1,0 +1,451 @@
+.I 1
+.W
+Specific advantages of computerized index systems.
+.I 2
+.T
+Indexing Consistency, Quality and Efficiency
+.A
+Rolling, L.
+.W
+    Indexing quality determines whether the information content of an indexed
+document is accurately represented.  Indexing effectiveness measures whether
+an indexed document is correctly retrieved every time it is relevant to a
+query.  Measurement of these criteria is cumbersome and costly; data base
+producers therefore prefer inter-indexer consistency as a measure of indexing
+quality or effectiveness.  The present article assesses the validity æof this
+substitution in various environments.
+.B
+(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 69-76)
+
+.I 3
+.W
+I am looking for information about the impact of automation on
+libraries and its significance for libraries in general.  This includes
+the increasing importance of automation in view of the proliferation of
+information today, and how automation can help libraries cope with
+this problem.  How will automation affect libraries and how should they
+react to the idea of automation?
+
+.I 4
+.W
+Computerized information systems in fields related to chemistry.
+.I 5
+.T
+Lexical Problems in Large Distributed Information Systems
+.A
+Berkovich, S.Y.
+Shneiderman, B.
+.W
+    The lexical problems in large information systems are created by the
+necessity of handling a great number of names and their interrelations.
+Such lexical problems are not covered completely by the concept data
+dictionaries, which are mostly concerned with database scheme design rather
+than the execution of operations.  In this paper we introduce our view of a
+lexical subsystem as a separate component in an information system architecture,
+to deal with linguistic and control functions concerning the lexical problems
+in local and network environments.  The lexical suybsystem is a special
+efficiently organized program package, which plays the role of a "linguistic
+filter" in a broad sense for lexically incorrect queries, promotes integration
+of databases and information retrieval systems, and facilitates the creation
+of local information systems.  We hope that lexical subsystems can become
+productive for any large, especially distributed, information system.
+.B
+(Information Processing & Management, Vol. 16, February 1980, pp. 259-267)
+
+.I 6
+.T
+Experiments in Local Metrical Feedback in Full-Text Retrieval Systems
+.A
+Attar, R.
+Fraenkel, A.S.
+.W
+    A method of iterative searching, using the results of one iteration search
+to formulate the next iteration search, was applied to a full-text database
+consisting of some 2400 documents and 1,3000,000 text-words of Hebrew and
+Aramaic.  The iterative method consists of clustering the documents returned
+in an iteration, using weighting by proximity and by frequency simultaneously.
+The process produces searchonyms, which are terms synonymous to keywords in the
+context of a single query.  Augumenting or replacing keywords by searchonyms
+via manual or automatic feedback leads to the formulation of the next iteration
+search.  The results of the experiment are consistent with those of an earlier
+small-scale experiment on an English database, and indicate that in contrast
+to global clustering where the size of matrices limits applications to small
+databases and improvements are doubtful, local metrical methods appear to be
+well suited to arbitrarily large databases, improving precision and recall
+simultaneously.  Further experiments using more test-queries run on even
+larger databases should be made to collect further evidence as to the
+performance of these methods.
+.B
+(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 115-126)
+
+.I 7
+.T
+Cocited Author Retrieval Online:
+An Experiment with the Social Indicators Literature
+.A
+White, H.D.
+.W
+    One mode of online retrieval in Scisearch or Social Scisearch involves
+entering pairs of authors' names believed to be jointly cited by
+subsequent writers and retrieving papers in which cocitations occur.  Six
+pairs were formed with the names of four authors prominent in the social
+indicators movement (Bauer, Duncan, Land, and Sheldon).  Documents by the
+four were not specified.  It was thought that the pair Duncan and Land
+would retrieve papers in which indicator-type data would be integrated with
+path-analytic causal modeling.  All other pairs seemed likely to retrieve a
+"general social indicators" literature.  The 298 retrieved papers confirmed
+expectattions.  It was found that 121 papers generally cited social indicators
+(SI) documents by the input authors and frequently had SI language in
+their titles.  Other signs of content also identified them as papers of
+the SI movement.  The 177 papers retrieved on Duncan and Land generally
+cited causal modeling documents by the input pair and were path-analytic
+in nature.  As expected, they were relatively "harder" than the first
+group of papers, although the two groups are akin and are formally linked
+through citations in certain papers.  An additional result is that papers
+citing at least three of the input authors tend to be overviews of the SI
+movement.
+.B
+(JASIS, Vol. 32, No. 1, January 1981, pp. 16-21)
+
+.I 8
+.T
+Answer-Passage Retrieval by Text Searching
+.A
+O'Connor, J.
+.W
+    Passage retrieval (already operational for lawyers) has advantages in
+output form opver references retrieval and is economically feasible.
+Previous experiments in passage retrieval for scientists have demonstrated
+recall and false retrieval rates as good or better than those of present
+reference retrieval services.  The present experiment involved a greater
+variety of forms of retrieval question.  In addition, search words were
+selected independently by two different people for each retrieval question.
+The search words selected, in combination with the computer procedures used
+for passage retrieval, produced average recall ratios of 72 and 67%,
+respectively, for the two selectors.  The false retrieval rates were (except
+for one predictably difficult question) respectively 13 and 10 falsely
+retrieved sentences per answer-paper retrieved.
+.B
+(JASIS, Vol. 31, No. 4, July 1980, pp. 227-239)
+
+.I 9
+.W
+Testing automated information systems.
+.I 10
+.T
+Searching Biases in Large Interactive Document Retrieval Systems
+.A
+Blair, D.C.
+.W
+    The way that individuals construct and modify search queries on a
+large interactive document retrieval system is subject to systematic biases
+similar to those that have been demonstrated in experiments on judgements
+under uncertainty.  These biases are shared by both naive and sophisticated
+subjects and cause the inquirer searching for documents on a large interactive
+system to construct and modify queries inefficiently.  A searching algorithm
+is suggested that helps the inquirer to avoid the effect of these biases.
+.B
+(JASIS, Vol. 31, No. 4, July 1980, pp. 271-277)
+
+.I 11
+.W
+Is there any use for traditional classification schemes - DDC, UDC, LC,
+etc. - in information retrieval systems?  If there is, which scheme
+appears most suited to machine use and where has it been applied?
+If there is not, why are these classification schemes irrelevant?
+Has research shown that a subject classification of knowledge is
+completely unnecessary in machine systems? Or, have new schemes
+been devised which appear to be more suited to machine use?
+
+.I 12
+.T
+Directions in Library Networking
+.A
+Avram, H.D.
+McCallum, S.H.
+.W
+    Bibliographic control before and after MARC is reviewed.  The capability
+of keying into online systems brought an interdependence among libraries,
+the service centers that mediate between them, and the large utilities that
+process and distribute data.  From this has developed the basic network
+structure among libraries in the United States.  The independent development
+of major networks has brought problems in standardization and coordination.
+The authors point out that while technology has led toward centralization
+of automated library services, new developments are now pushing toward
+decentralization.  Coordination is a requirement to avoid fragmentation in
+this new environment.
+.B
+(JASIS, Vol. 31, No. 6, November 1980, pp. 438-444)
+
+.I 13
+.T
+A Microcomputer Alternative for Information Handling:  Refles
+.A
+Bivins, K.T.
+Palmer, R.C.
+.W
+    REFLES is a microcomputer-based system for data retrieval in library
+environments.  The problem of information retrieval is discussed from a
+theoretical point of view, followed by an analysis of the reference process
+and data thereby gathered, leading to a description of REFLES in terms of
+its hardware and software.  REFLES, a prototype system at present, currently
+functions in a test environment.  Examples of data contained in the system
+and of its use are presented.  Future considerations and speculations on
+other versions of the system conclude the paper.
+.B
+(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 93-101)
+
+.I 14
+.W
+The use of abstract mathematics in information retrieval, e.g. group theory.
+.I 15
+.T
+Performance Testing of a Book and Its Index as a Information Retrieval
+System
+.A
+Bennion, B.C.
+.W
+    The retrieval performance of book indexes can be measured in terms of
+their ability to direct a user selectively to text material whose identity
+but not location is known.  The method requires human searchers to base
+their searching strategies on actual passages from the book rather than on
+test queries, natural or contrived.  It circumvents the need for relevance
+judgement, but still yields performance indicators that correspond
+approximately to the recall and precision ratios of large document retrieval
+system evaluation.  A preliminary application of the method to the subject
+indexing of two major encyclopedias showed one encyclopedia apparently
+superior in both the finding and discrimination abilities of retrieval
+performance.  The method is presently best suited for comparative testing
+since its ability to yield absolute or reproducible measures is as yet not
+established.
+.B
+(JASIS, Vol. 31, No. 4, July 1980, pp. 264-270)
+
+.I 16
+.T
+Normalization of Titles and Their Retrieval
+.A
+Takamatsu, S.
+Fujita, UY.
+Nishida, F.
+.W
+    This paper presents a method of normalizations of English titles and
+their retrieval.  The title expressed by a noun phrase or a noun clause
+is converted to a function-expression by parsing.  For the retrieval with
+a reasonable recall rate as well as a high precision rate, the function-
+expression is transformed to a predicate-governor form, and then normalized
+to a standard form.  Therefrom, various items are extracted and recorded
+in a hierarchical tree-like inverted file.
+
+    In order to keep the recall rate in a reasonable value, several
+retrieval stages are implemented based on the key-term and case-label
+matching.  The retrieval is controlled by the preciseness of the specification
+of case-labels for each key-term.
+.B
+(Info. Proc. & Management, Vol. 16, No. 3, 1980, pp. 155-167)
+
+.I 17
+.T
+An Automatic Method for Extracting Significant
+Phrases in Scienfific or Technical Documents
+.A
+Maeda, T.
+Momouchi, J.
+Sawamura, H.
+.W
+    A new method is described to extract significant phrases in the title
+and the abstreact of scientific or technical documents.  The method is
+based upon a text structure analysis and uses a relatively small dictionary.
+The dictionary has been constructed based on the knowledge about concepts
+in the field of science or technology and some lexical knowledge.  For
+significant phrases and their component items may be used in different
+meanings among the fields.  A text analysius approach has been applied to
+select significant phrases as substantial and semantic information carriers
+of the contents of the abstract.
+
+    The results of the experiment for five sets of documents have shown
+that the significant phrases are effectively extracted in all cases, and
+the number of them for every document and the processing time is fairly
+satisfactory.  The information representation of the document, partly
+using the method, is discussed with relation to the construction of the
+document information retrieval system.
+.B
+(Info. Proc. & Management, Vol. 16, No. 3, 1980, pp.119-127)
+
+.I 18
+.W
+How can the computer be used in medical science for diagnostic and
+clinical record keeping purposes?  Have any programs of automation
+been tried in hospitals?  If so, what have been the results?
+What problems have been encountered in the use of automation in
+medicine?  For what purposes can an automated system of clinical
+records be used?  What are other possible uses of the computer in medicine?
+
+.I 19
+.W
+What are the aims and objectives of the medical literature analysis
+and retrieval system (MEDLARS)?  How does MEDLARS operate?  What are
+the possible applications of MEDLARS to future information retrieval
+systems?
+
+.I 20
+.W
+What possibilities are there for automatic grammatical and contextual analysis
+of articles for inclusion in an information retrieval system?
+.I 21
+.T
+Parallel Computations in Information Retrieval
+.A
+Salton, G.
+Bergmark, D.
+.W
+    Conventional information retrieval processes are largely based on data
+movement, pointer manipulations and integer arithmetic; more refined retrieval
+algorithms may in addition benefit from substantial computational power.
+
+    In the present study a number of parallel processing methods are described
+that serve to enhance retrieval services.  In conventional retrieval
+environments parallel list processing and parallel search facilities are of
+greatest interest.  In more advanced systems, the use of array processors
+also proves beneficial.  Various information retrieval processes are examined
+and evidence is given to demonstrate the usefulness of parallel processing
+and fast computational facilities in information retrieval.
+.B
+(In Lecture Notes in Computer Science, No. III, W. Handler, Ed., Springer
+Verlag, Berlin-New York, 1981, pp. 328-342)
+
+.I 22
+.T
+Co-Citation Context Analysis and the Structure of Paradigms
+.A
+Small, H.
+.W
+    Many information scientists are concerned with the operation of
+document retrieval systems serving scientists in various fields.  The
+scientists served by these systems are often members of what have been called
+invisible colleges, groups of scientists in frequent communication with
+one another and involved with highly specialized subject matters.  Often
+such groups are considered to share an intellectual perspective regarding
+this subject matter, which is sometimes referred to as a paradigm.
+
+    The purpose of this paper is to show how it is possible to identify
+paradigms, using the techniques of citation analysis.  I will operationalize
+the notion of paradigm as a 'consensual structure of concepts in a field.'
+Suppose we have obtained a set of papers pertaining to some topic.  Already
+knowing something about the field, we read each text and mark passages in
+which certain specific concepts are used or discussed.  For example, we
+might find that a concept designated 'A' appears in some sub-set of the
+papers.  Suppose further that we identify those papers in which concepts 'A'
+and 'B' are used together in the same papers in a certain specified manner.
+Clearly not all concepts will combine in a natural way, and not all authors
+combining concepts 'A' and 'B' will do so in the same way, though some
+predominant mode may emerge.  For a set of n concepts their structure is
+given by the totality of admissible combinations of concepts taken from
+two to n at a time.  The frequency with which a given combination occurs
+in the sample of papers on the topic is a measure of the degree of consensus
+regarding the particular concept combination within the corpus.  For
+concepts taken two at a time, the structure can be displayed as a graph with
+concepts as nodes and the relations between them represented as lines (arcs)
+connecting the nodes.  This definition of concept structure is
+similar to the semantic network of artificial intelligence except that in
+our approach a measure of consensus weights each arc of the graph.
+.B
+(Journal of Documentation, Vol. 36, No. 3, September 1980, pp. 183-196)
+
+.I 23
+.W
+What problems and concerns are there in making up descriptive titles?
+What difficulties are involved in automatically retrieving articles from
+approximate titles?
+What is the usual relevance of the content of articles to their titles?
+.I 24
+.W
+What lists of words useful for indexing or classifying material are
+available?  Wanted are lists of terms that are descriptive vocabularies
+of particular fields or schedules of words that are related to each other
+in meaningful schemes.  Wanted are lists that have been tested, at least to
+some extent, and found useful for organizing material and for retrieving it.
+
+.I 25
+.W
+What future is there for automatic medical diagnosis?
+.I 26
+.T
+Using an Online Microfiche Catalog for Technical Service and Retrieval of
+Bibliographic Data
+.A
+Hayes, R.M.
+Borko, H.
+.W
+    A prototype system is created that integrates a microfiche catalog
+into an online computer system for bibliographic control.  Costs and
+operational data are collected and analyzed.  The system permits the more
+economical microfiche storage of catalog records than would be feasible
+for comparable online magnetic disk storage.  Experimental tests
+demonstrate the feasibility of the online microfiche catalog system for use
+in library technical services and retrieval of bibliographic data.  The
+primary result of the project is the creation of a completely operational
+facility, including all equipment, software, procedures, and data bases
+necessary to demonstrate the system.  A second set of results is derived
+from the experimental use of the system and the evaluation of costs and
+times for various operations.  The cost effectiveness of the online microfiche
+catalog is demonstrated.
+.B
+(Information Processing and Management, Vol. 16, No. 6, February 1980,
+pp. 277-289)
+
+.I 27
+.T
+Document Clustering Using an Inverted File Approach
+.A
+Willett, P.
+.W
+    An automated document clustering procedure is described which does not
+require the use of an inter-document similarity matrix and which is independent
+of the order in which the documents are processed.  The procedure makes use of
+an initial set of clusters which is derived from certain of the terms in the
+indexing vocabulary used to characterise the documents in the file.  The
+retrieval effectiveness obtained using the clustered file is compared with that
+obtained from serial searching and from use of the single-linkage clustering
+method.
+.B
+(Journal of Information Science, 2, 1980, pp. 222-231)
+
+.I 28
+.W
+What are some of the theories and practices in computer translating of
+texts from one national language to another?  How can machine translating
+compete with traditional methods of translating in comprehending nuances
+of meaning in languages of different structures?
+
+.I 29
+.W
+How can access words in an information retrieval system be kept up to date?
+Word meanings and usage often change and lists must be dynamic to be current.
+What definitions of the problem and progress toward solutions have been made
+in providing necessary flexibility in systems of subject headings, index
+words, or other symbols used for getting at stored data?
+
+.I 30
+.T
+A General Formulation of Bradford's Distribution:  The Graph-Oriented
+Approach
+.A
+Asai, I.
+.W
+    From the detailed analysis of eight previously published mathematical
+models, a general formulation of Bradford's distribution can be deduced as
+follows:  y = a log(x + c) + b, where y is the ratio of the cumulative
+frequency of articles to the total number of articles and x is the ratio
+of the rank of journals to the total number of journals.  The parameters a, b,
+and c are the slope, the intercept, and the shift in a straight line to log rank,
+respectively.  Each of the eight models is a special case of the general
+formulation and is one of five types of formulation.  In order to estimate
+three unknown parameters, a statistical method using root-weighted square
+error is proposed.  A comparative experiment using 11 databases suggests that
+the fifth type of formulation with three unknown parameters is the best fit
+to the observed data.  A further experiment shows that the deletion of the
+droop data leads to a more accurate value of parameters and less error.
+.B
+(JASIS, Vol. 32, No. 2, March 1981, pp. 113-121)
+
