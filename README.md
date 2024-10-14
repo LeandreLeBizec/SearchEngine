@@ -6,7 +6,7 @@ This project implements a search engine based on lemmatization and stemming tech
 
 The project consists of three main files:
 
-1. **Indexation_Lemmatisation+Stemmer(1).ipynb**:
+1. **Indexation_Lemmatisation+Stemmer.ipynb**:
    - This notebook performs the indexing of queries and documents using lemmatization and stemming techniques.
    - The steps include:
      - Importing and cleaning the queries and documents.
