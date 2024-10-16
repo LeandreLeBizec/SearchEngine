@@ -6,7 +6,7 @@ This project implements a search engine based on lemmatization and stemming tech
 
 The project consists of three main files:
 
-1. **Indexation_Lemmatisation+Stemmer.ipynb**:
+1. **Indexation_lem+stem.ipynb**:
    - This notebook performs the indexing of queries and documents using lemmatization and stemming techniques.
    - The steps include:
      - Importing and cleaning the queries and documents.
@@ -14,7 +14,7 @@ The project consists of three main files:
      - Creating an inverted index file.
      - Exporting the results.
 
-2. **Moteur_lemm+stem.ipynb**:
+2. **Moteur_lem+stem.ipynb**:
    - This notebook uses the inverted index files created in the first file to calculate cosine similarity between queries and documents.
    - The steps include:
      - Reading vectors from the inverted index files.
